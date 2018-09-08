@@ -1,3 +1,20 @@
 #referrence
-1. http://www.thefreedictionary.com/Website
-2. https://www.millforbusiness.com/how-many-websites-are-there/
+1. http://www.thefreedictionary.com/Website, HarperCollins, 12th edition 2014
+2. https://www.millforbusiness.com/how-many-websites-are-there/, Mill For Bussiness, 11 juni 2018
+3. https://techterms.com/definition/staticwebsite, Sharpened Production, 12 Juni 2009
+4. https://techterms.com/definition/dynamicwebsite, Sharpened Production, 13 Juni 2009
+5. Moving Media Storage Technologies: Applications & Workflows for Video and Media S2011. Page 381
+6. https://en.wikipedia.org/wiki/Web_content_management_system, Wikipedia.org, 15 agustus 2018
+7. cmscritic.com/what-is-a-cms, mike johnson, 28 juli 2010
+8. https://codex.wordpress.org/AJAX, wordpress.org, 11 Maret 2011
+9. webmaster@ftb.ca.gov (27 October 2009). "Business Process Management Center of Excellence Glossary" (PDF). Retrieved 31 March 2015
+10. Ortiz-Cordova, A. and Jansen, B. J. (2012) Classifying Web Search Queries in Order to Identify High Revenue Generating Customers. Journal of the American Society for Information Sciences and Technology. 63(7), 1426 – 1441
+11. https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/jjcolao/2012/09/05/the-internets-mother-tongue/&refURL=https://en.wikipedia.org/&referrer=https://en.wikipedia.org/, Coalo JJ, 5 September 2012
+12. https://codex.wordpress.org/Installing_WordPress, wordpress.org
+13. Jeff Chandler (April 3, 2014). https://wptavern.com/introduction-to-underscores-a-wordpress-starter-theme-with-konstantin-obenland
+14. https://en.wikipedia.org/wiki/WordPress, wikipedia.org
+15. https://www.thebalancecareers.com/five-key-benefits-of-using-wordpress-for-your-website-3515362, Lahle Wolfe, 1 Juli 2014
+16. https://en.wikipedia.org/wiki/Web_development, wikipedia.org, 14 May 2018
+17. https://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/XLC/Downloads/SelectingDevelopmentApproach.pdf, SELECTING A DEVELOPMENT APPROACH (PDF), Centers forMedicare and Medcaid Services, 27 Maret 2008
+18.https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx, innovatice architects
+19. https://www.wpbeginner.com/glossary/plugin/, Syed Balkhi
